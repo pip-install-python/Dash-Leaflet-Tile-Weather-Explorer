@@ -8,10 +8,11 @@
 
 [![Project Software](https://skills.thijs.gg/icons?i=linux,flask,py,react,js,html,css,)](https://community.plotly.com/t/django-dash-token-authentication/82088)
 
-![Django Dash Token Authentication](assets/github/initial_load_with_clouds.png)
-
+![Initial_Map](assets/github/initial_load_with_clouds.png)
 
 `Dash-Leaflet-Tile-Weather-Explorer` is a leaflet template aimed at showcasing 20 different map tiles, 3 different times to show precipitation in the USA, and a current cloud gage with a location request and full screen mode. This project provides a boilerplate for a solid map focused application, and practical examples designed to streamline the creation and integration of Dash with a leaflet map.
+
+![Night](assets/github/night.png)
 
 ## Features
 
@@ -21,17 +22,21 @@
 - **User Location Detector:** A variety of examples showcasing different Dash frontend components and their use cases.
 - **Full Screen Mode:** A variety of examples showcasing different Dash frontend components and their use cases.
 
+![tile_selector](assets/github/tile_selector.png)
+
 API Keys are required for the clouds and some map tiles:
 - **jawg-matrix-access-token:** https://www.jawg.io/
 - **thunderforest-api-key:** https://www.thunderforest.com/
 - **openweathermap-appid:** https://openweathermap.org/
+
+![precipitation](assets/github/precipitation.png)
 
 ## Getting Started
 
 To get started with `Dash-Leaflet-Tile-Weather-Explorer`, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/dash-frontend.git
+git clone https://github.com/pip-install-python/Dash-Leaflet-Tile-Weather-Explorer.git
 cd dash-frontend
 ```
 Ensure you have the following installed:
