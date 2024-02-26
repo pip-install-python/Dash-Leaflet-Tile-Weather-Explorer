@@ -18,12 +18,11 @@ The art of exploration and understanding of the world around us has never been e
 ![Night](assets/github/night.png)
 
 ## Features
-
-- **20 Map Styles:** More styles could be added or the ones provided could be replaced refer to: 
-- **Rain Radar:** Ready-to-use templates that can be easily integrated into your Dash projects.
-- **Cloud Radar:** A variety of examples showcasing different Dash frontend components and their use cases.
-- **User Location Detector:** A variety of examples showcasing different Dash frontend components and their use cases.
-- **Full Screen Mode:** A variety of examples showcasing different Dash frontend components and their use cases.
+- **20 Map Styles:** More styles could be added or the ones provided could be replaced.
+- **Rain Radar:** 1h, 24h, 48h rain radar
+- **Cloud Radar:** toggle the current clouds 
+- **User Location Detector:** Click the find me button to pinpoint users location.
+- **Full Screen Mode:** inspect with the full width and height of your screens real-estate 
 
 ![tile_selector](assets/github/tile_selector.png)
 
