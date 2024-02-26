@@ -10,8 +10,11 @@
 
 ![Initial_Map](assets/github/initial_load_with_clouds.png)
 
-`Dash-Leaflet-Tile-Weather-Explorer` is a leaflet template aimed at showcasing 20 different map tiles, 3 different times to show precipitation in the USA, and a current cloud gage with a location request and full screen mode. This project provides a boilerplate for a solid map focused application, and practical examples designed to streamline the creation and integration of Dash with a leaflet map.
+`Dash-Leaflet-Tile-Weather-Explorer` is a leaflet template aimed at showcasing 20 initial style tiles, current clouds and USA precipitation 1h, 24h, 48h.
 
+This post is directed for other cartographer’s that might be lurking in the mist, personally I’ve always found the art of map making very interesting. Over time how it has evolved from scribbles on a piece of paper to interactive GUI’s.
+
+The art of exploration and understanding of the world around us has never been easier with the advances we have seen in technology and information. My goal is to articulate, throughout history cartographer’s have always been important and useful careers. From solving problems with disease, war, logistics and many other. Coveted is the person that can give an understanding of the world and now is the best time to explore and create the tools and maps of the future. Inspiration and a challenge to build and innovate exceeding the initial seed planted with this project.
 ![Night](assets/github/night.png)
 
 ## Features
@@ -37,7 +40,7 @@ To get started with `Dash-Leaflet-Tile-Weather-Explorer`, clone this repository 
 
 ```bash
 git clone https://github.com/pip-install-python/Dash-Leaflet-Tile-Weather-Explorer.git
-cd dash-frontend
+cd weather_map
 ```
 Ensure you have the following installed:
 
@@ -69,10 +72,10 @@ pip install -r requirements.txt
 ```
 
 ### Running Examples
-Navigate to the example you wish to run and execute the application:
+Navigate to the app.py file and execute the application:
+
 
 ```
-cd weather_map
 python app.py
 ```
 
