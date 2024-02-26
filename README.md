@@ -71,6 +71,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Config
+Create a config.json file in pages with the API Keys 
+
 ### Running Examples
 Navigate to the app.py file and execute the application:
 

@@ -1,0 +1,7 @@
+{
+  "name": "Dash Leaflet Tile & Weather Explorer",
+  "version": "0.0.1",
+  "jawg-matrix-access-token": "REPLACE_WITH_YOUR_JAWG_MATRIX_ACCESS_TOKEN",
+  "thunderforest-api-key": "REPLACE_WITH_YOUR_THUNDERFOREST_API_KEY",
+  "openweathermap-appid": "REPLACE_WITH_YOUR_OPENWEATHERMAP_APPID",
+}
